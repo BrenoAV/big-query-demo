@@ -16,7 +16,7 @@ $ source .venv/bin/activate  # unix
 - Install the dependencies:
 
 ```bash
-$ pip install -r requeriments.txt
+$ pip install -r requirements.txt
 ```
 
 ## Service Account
