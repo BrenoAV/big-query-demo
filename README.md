@@ -67,11 +67,9 @@ $ python load_table_bigquery.py
 ![Loading the table from BigQuery](src/imgs/load-bigquery.png)
 
 ---
-
 <div align="center">
-  <strong>"People’s dreams... Have no ends" - OP</strong>
+  <strong>"PEOPLE'S DREAMS WILL NEVER END" - OP</strong>
 </div>
-
 <p align="center">
   <sub>Created by BrenoAV</sub>
 </p>
